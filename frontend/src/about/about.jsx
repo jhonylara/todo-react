@@ -3,6 +3,6 @@ import PageHeader from '../template/pageHeader'
 
 export default props => (
     <div>
-        <PageHeader name='Sobre' small='Nós'></PageHeader>
+        <PageHeader name='Sobre' small='o jhony'></PageHeader>
     </div>
 )

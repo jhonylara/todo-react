@@ -8,6 +8,8 @@ module.exports = {
         filename: './app.js'
     },
     devServer: {
+        compress: true,
+        public: 'jhonylara.com.br',
         port: 3000,
         contentBase: './public',
     },
